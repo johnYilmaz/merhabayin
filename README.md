@@ -1,2 +1,2 @@
 # merhabayin
-ilk repository
+github öğrenmeye çalışıyorums
